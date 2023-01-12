@@ -3,7 +3,7 @@
 #### Tech that I use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vscode,git,js,ts,nodejs,vue,angular,jquery,html,css,androidstudio,java,kotlin,spring,dotnet,py,django,r,mysql,sqlite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,php,laravel,js,ts,nodejs,vue,angular,jquery,html,css,java,kotlin,spring,dotnet,py,django,r,mysql,sqlite,git&perline=6" />
   </a>
 </p>
 
