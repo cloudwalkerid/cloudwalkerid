@@ -22,12 +22,3 @@
   <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 </p>
 <br/>
-
----
-
-[![cloudwalkerid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudwalkerid&theme=blue-green)
-
-### Statistik Kodingan Saya !!!
-<br />
-
-[![cloudwalkerid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudwalkerid)](https://github.com/cloudwalkerid/github-readme-stats)
