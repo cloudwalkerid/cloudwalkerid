@@ -13,6 +13,6 @@
 - [Teman Pak Camat](https://webapps.bps.go.id/mamujukab)
 - [Atracksi](https://bpsprovsulbar.id/atracksi/)
 - [Pride](https://bpsprovsulbar.id/76Dashboard)
-- [siapkerja](https://webapps.bps.go.id/mamasakab/siapkerja)
+- [SiapKerja](https://webapps.bps.go.id/mamasakab/siapkerja)
 
 
